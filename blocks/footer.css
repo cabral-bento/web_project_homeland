@@ -1,0 +1,10 @@
+.footer__content {
+  display: flex;
+  position: absolute;
+  width: 166px;
+  height: 16px;
+  top: 1843px;
+  bottom: 24px;
+  left: 556px;
+  opacity: 1;
+}
