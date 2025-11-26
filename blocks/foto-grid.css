@@ -1,0 +1,14 @@
+.foto-grid {
+  width: 1184px;
+  height: 442px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 284px);
+  grid-template-rows: repeat(2, auto);
+  gap: 16px;
+}
+
+.foto-grid__item {
+  width: 284px;
+  height: 213px;
+}
