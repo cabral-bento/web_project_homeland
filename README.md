@@ -1,12 +1,12 @@
-# 🏡 Web Project Homeland
+#  Web Project Homeland
 
 **Um projeto responsivo que apresenta histórias e locais de diferentes partes do mundo.**
 
-## 📋 Descrição
+##  Descrição
 
 Website com design responsivo que segue a metodologia **BEM (Block Element Modifier)** para nomenclatura de classes CSS. O projeto explora a criação de páginas adaptáveis para diferentes dispositivos através de media queries e design fluido.
 
-## ✨ Características
+##  Características
 
 - ✅ **Responsivo** — Breakpoints: Desktop (≥1025px), Tablet (1024px), Mobile (≤544px)
 - ✅ **Tipografia moderna** — Fonte Inter com weights 400 e 900
@@ -14,7 +14,7 @@ Website com design responsivo que segue a metodologia **BEM (Block Element Modif
 - ✅ **Metodologia BEM** — CSS organizado e escalável
 - ✅ **Acessibilidade** — ALT tags descritivas e focus visível
 
-## 🚀 Como Usar
+##  Como Usar
 
 1. Clone o repositório:
 
@@ -26,7 +26,7 @@ Website com design responsivo que segue a metodologia **BEM (Block Element Modif
 
 3. Acesse a página online: [GitHub Pages](https://cabral-bento.github.io/web_project_homeland/)
 
-## 📂 Estrutura
+##  Estrutura
 
 ```text
 blocks/          → Componentes CSS (BEM)
