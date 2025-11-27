@@ -37,5 +37,5 @@ pages/index.css  → Importações principais
 
 ## 👨‍💻 Autor
 
-**Desejado Cabral** — [cabral-bento](https://github.com/cabral-bento)
+**Desejado Cabral** — [cabral-bento](https://github.com/cabral-bento/web_project_homeland.git)
 
