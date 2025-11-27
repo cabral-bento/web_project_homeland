@@ -48,6 +48,19 @@
     line-height: 163%;
   }
 
+  .foto-grid {
+    display: flex;
+  }
+
+  .foto-grid__item {
+    width: 100%;
+  }
+
+  .place__paragraph {
+    max-width: 352px;
+    width: auto;
+  }
+
   .copyright {
     display: flex;
     justify-content: center;
