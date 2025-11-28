@@ -29,4 +29,5 @@
 
 .lead__image {
   width: 100%;
+  box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.35);
 }
