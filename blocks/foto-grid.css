@@ -24,7 +24,7 @@
 }
 
 /* Mobile: 1 coluna */
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 640px) {
   .foto-grid {
     grid-template-columns: 1fr;
     gap: 12px;

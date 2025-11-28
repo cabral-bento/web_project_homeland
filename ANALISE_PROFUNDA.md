@@ -180,7 +180,7 @@ alt="Castelo histórico em pedra sobre colina"
 
 **Recomendação:**
 ```css
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 640px) {
   .place__title {
     font-size: 28px;  /* um pouco maior */
   }
@@ -245,7 +245,7 @@ alt="Castelo histórico em pedra sobre colina"
 }
 
 /* Mobile (≤544px): Empilha verticalmente */
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 640px) {
   .place {
     flex-direction: column;
   }

@@ -137,7 +137,7 @@
 }
 
 /* Mobile: 544px */
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 640px) {
   .places {
     padding: 2rem 1rem;
   }
