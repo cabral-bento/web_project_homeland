@@ -23,7 +23,7 @@
   }
 }
 
-/* Mobile: 1 coluna    */
+/* Mobile: 1 coluna */
 @media screen and (max-width: 544px) {
   .foto-grid {
     grid-template-columns: 1fr;
